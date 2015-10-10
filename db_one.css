@@ -1,0 +1,27 @@
+* {
+  font-family: Helvetica;
+}
+
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header {
+  display: inline;
+}
+
+img {
+  width: 70%;
+  
+}
+
+ul li{
+  display: inline;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
